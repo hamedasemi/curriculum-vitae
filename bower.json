@@ -1,0 +1,15 @@
+{
+  "name": "curriculum-vitae",
+  "homepage": "https://github.com/hamedasemi/curriculum-vitae",
+  "authors": [
+    "hamedasemi <h-@live.se>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "webcomponentsjs": "^1.0.11",
+    "polymer": "^2.0.2"
+  }
+}
